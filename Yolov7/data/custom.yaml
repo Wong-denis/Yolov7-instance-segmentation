@@ -1,0 +1,9 @@
+train: "./data/cablev12_1123_512/train/"
+val: "./data/cablev12_1123_512/valid/"
+
+# number of classes
+nc: 1
+
+# class names
+names: ['wire']
+
